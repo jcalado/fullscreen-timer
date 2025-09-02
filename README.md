@@ -16,8 +16,6 @@ A simple fullscreen digital clock display built with HTML, CSS, and JavaScript.
 
 This project displays a large, fullscreen digital clock showing hours and minutes. The clock updates every second and features a blinking colon divider. It's designed to be viewed in fullscreen mode for presentations, timers, or as a simple clock display.
 
-The background will change color as the time goes by.
-
 ## Features
 
 - Fullscreen digital clock display
